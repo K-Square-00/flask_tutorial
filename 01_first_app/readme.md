@@ -6,7 +6,11 @@
 mkdir myproject
 cd myproject
 python3 -m venv venv
+. venv/bin/activate
+pip install Flask
 ```
+
+
 
 2. create hello world script (e.g. hello.py)
 ```
