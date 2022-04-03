@@ -1,10 +1,10 @@
 # Setup first Flask app
 
-1. install Flask
+1. install Flask 
 
 ```
-mkdir myproject
-cd myproject
+mkdir 01_first_app 
+cd 01_first_app
 python3 -m venv venv
 . venv/bin/activate
 pip install Flask
